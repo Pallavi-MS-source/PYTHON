@@ -1,0 +1,5 @@
+my_tuple = (23,56,'sony','mony',9.86)
+print(my_tuple[4])
+print(my_tuple[2])
+print(my_tuple[3])
+print(my_tuple[1])
