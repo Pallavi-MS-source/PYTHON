@@ -6,7 +6,7 @@ Stop when the user enters 0 and print the total.
 
 p_sum = 0
 while True:
-    i = int(input(" Enter 10 numbers = "))
+    i = int(input(" Enter numbers = "))
     
     if i == 0:
         break
